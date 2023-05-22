@@ -20,7 +20,7 @@ const content = [
     {
         img: 'https://sun9-46.userapi.com/impg/lYZ39bu5lFIL2pUPoXWGcaQYg6bXQmh5zhAMrw/6-gXn_FNPLw.jpg?size=478x476&quality=96&sign=1ecccdff0c206f70b76386274c7bcd21&type=album',
         title: 'Никита',
-        link: 'https://www.youtube.com/watch?v=W3rpc0SGYSc&ab_channel=MrPotolot',
+        link: 'https://youtu.be/Gku5h4RoHvk',
     },
     //5
     {
@@ -39,7 +39,8 @@ const content = [
     {
         img: 'https://sun9-53.userapi.com/impg/-bA7VilhyYwUpT2LgBNHbBo8liwNfH3vnpbgkg/qCchVbjWNd4.jpg?size=1626x2160&quality=95&sign=cc8e0d8ea00e826178fd63e8c86bc3cd&type=album',
         title: 'Тигр Педофил',
-        link: 'https://www.youtube.com/watch?v=ETjtKnITWeI&t=s&ab_channel=%D1%87%D1%83%D0%B2%D1%8B%D0%B4%D0%BB%D0%B0.',
+        link: 'https://youtu.be/HBKuN_EgDfs',
+
     },
     
 ]
