@@ -2,19 +2,19 @@ const content = [
     {
         img: 'https://sun9-34.userapi.com/impg/9zXSVPPMk-y8ihFgfTMjR7Yjfpkiq_i-s_4zUQ/bmmwfRQmikU.jpg?size=505x474&quality=96&sign=3b36374ad075d6e0e234d82912d259b8&type=album',
         title: 'Егорыч',
-        link: 'https://www.youtube.com/watch?v=9754FF7Uemw&ab_channel=Th3DarkNinja',
+        link: 'https://youtu.be/ro1smIi0V5I',
     },
     //2
     {
         img: 'https://sun9-51.userapi.com/impg/tVtZpsvMZcc1nOZzmOGasc6S8VRl3pIupMYgkw/l-XLVBmPy3M.jpg?size=899x1599&quality=95&sign=5b08a53d7f5a187f976e516a49175c99&type=album',
         title: 'МайХаэль',
-        link: 'https://www.youtube.com/watch?v=f7QwC3HuaGk&ab_channel=marazm',
+        link: 'https://youtu.be/Xr6CDmgryVQ',
     },
     //3
     {
         img: 'https://sun9-22.userapi.com/impg/RNBwCimeJfv-4rPwd-7H9r-9FXCDhqUXKa_e3Q/BGCWaFSIbGQ.jpg?size=360x476&quality=96&sign=58d9014fb0bf573d229d7df2a3ce60e0&type=album',
         title: 'Ильюша',
-        link: 'https://www.youtube.com/watch?v=aG7_8rmpN5A&ab_channel=%D0%AD%D0%BB%D0%BA%D0%B0-%282%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29',
+        link: 'https://youtu.be/X0zSCic2el8',
     },
     //4
     {
@@ -32,7 +32,7 @@ const content = [
     {
         img: 'https://sun9-69.userapi.com/impg/LEk6HfF4wdbeyX74NVVfH3vfpeoH2yKtX7rgVQ/K5Lc_sP8ffU.jpg?size=1920x1080&quality=96&sign=aa2d681f8c18c72469da667cbb04b0fb&type=album',
         title: 'Саньёк',
-        link: 'https://www.youtube.com/watch?v=et1fsm9qdhk&ab_channel=TeaSorter',
+        link: 'https://youtu.be/IRrL3bYA-AU',
         
     },
     //7
