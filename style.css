@@ -27,14 +27,14 @@
     transition: .1s;
 }
 .block:hover{
-    background: violet;
+    background: blue;
 }
 .headerBox{
     position: fixed;
     background: white;
 }
 a.btn{
-    background: #ee82ee45;
+    background: #2f00ff45;
     padding: 5px 10px;
     border-radius: 7px;
     margin-right: 5px;
@@ -45,7 +45,7 @@ a.btn{
     color: black;
 }
 a.btn:hover{
-    background: violet;
+    background: blue;
 }
 .btnBox {
     display: flex;
