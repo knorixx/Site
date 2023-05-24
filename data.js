@@ -38,11 +38,16 @@ const content = [
     //7
     {
         img: 'https://sun9-53.userapi.com/impg/-bA7VilhyYwUpT2LgBNHbBo8liwNfH3vnpbgkg/qCchVbjWNd4.jpg?size=1626x2160&quality=95&sign=cc8e0d8ea00e826178fd63e8c86bc3cd&type=album',
-        title: 'Тигр Педофил',
+        title: 'Васимка',
         link: 'https://youtu.be/HBKuN_EgDfs',
 
+    }, 
+     {
+        img: 'https://sun7-1.userapi.com/impg/c97j_7draxxuDiJBclCoY0RL5L4nSFBnVmU93g/aALCXdsw3ws.jpg?size=387x400&quality=96&sign=7a997b35f14182d4320448381a1bb6ee&type=album',
+        title: 'Арсений',
+        link: 'https://youtu.be/3Y_3_V_8y78',
+        
     },
-    
 ]
 
 const wrapper = document.querySelectorAll('.wrapper')[1]
