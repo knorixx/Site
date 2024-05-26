@@ -24,7 +24,7 @@ const content = [
     },
     //5
     {
-        img: 'https://cdn.discordapp.com/attachments/827465353076146207/1110298170791039007/6dyHJohMyRE.jpg',
+        img: 'https://sun9-78.userapi.com/impg/N3N16zpqMPIg_B3gRa_wAN278RKbnAtbALTWAw/TV3KTPzKnuM.jpg?size=1104x1472&quality=96&sign=aa5143dc0827921407380a3dd97af373&type=album',
         title: 'Егор бульдозер',
         link: 'https://www.youtube.com/watch?v=wcaZcbain2s&ab_channel=JustMyFavStrangeMusic',
     },
